@@ -64,3 +64,17 @@ ol.top5-list li:before {
     content: counter(li-counter);
     counter-increment: li-counter;
 }
+
+.img-thumb-container {
+    max-height: 64px;
+    max-width: 64px;
+}
+
+.img-thumb {
+    width: 100%;
+    height: auto;
+}
+
+.panel-primary a {
+    color: #fff;
+}
